@@ -1,0 +1,1 @@
+django + redis test code
